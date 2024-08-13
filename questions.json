@@ -1,0 +1,57 @@
+[
+  {
+    "question": "What is the result of adding two negative integers?",
+    "options": [
+      "A positive integer",
+      "A negative integer",
+      "Zero",
+      "None of the above"
+    ],
+    "correct": 1,
+      "img": "./assests/images/1.jpg"
+  },
+  {
+    "question": "Which of the following pairs are consecutive integers?",
+    "options": [
+      "-1 and 0",
+      "2.5 and 3.5",
+      "3 and 5",
+      "-2 and -4"
+    ],
+    "correct": 0,
+      "img": "./assests/images/2.jpg"
+  },
+  {
+    "question": "What is the result of adding -10 to 555?",
+    "options": [
+      "545",
+      "-545",
+      "565",
+      "-565"
+    ],
+    "correct": 0,
+      "img": "./assests/images/3.jpg"
+  },
+  {
+    "question": "What is the additive inverse of 1221?",
+    "options": [
+      "-1221",
+      "0",
+      "1221",
+      "-1"
+    ],
+    "correct": 0,
+      "img": "./assests/images/4.jpg"
+  },
+  {
+    "question": "What is the result of 90 +(−60)?",
+    "options": [
+      "150",
+      "30",
+      "-30",
+      "-150"
+    ],
+    "correct": 1,
+      "img": "./assests/images/5.jpg"
+  }
+]
